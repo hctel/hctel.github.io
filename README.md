@@ -1,4 +1,5 @@
 Welcome on this example GitHub page! You can find a bit about me here.
+
 *Note: This is an example and does not reflect my actual informations*
 
 # Studies
