@@ -26,3 +26,9 @@ Building a robot that can move, pickup wood blocks, flip them while avoiding oth
 
 > You can find out more by visiting [the project's repository](https://github.com/hctel/eurobot-2025)
 
+<button id="skibid-button">skibid</button>
+<script>
+    def onClick() {
+        document.getElementById("skibid-button").textContent = "bleh";
+    }
+</script>
